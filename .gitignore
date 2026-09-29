@@ -1,0 +1,12 @@
+# Environnement (recréé par uv sync)
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Systèmes
+.DS_Store
+Thumbs.db
